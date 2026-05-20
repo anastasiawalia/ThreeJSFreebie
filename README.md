@@ -1,4 +1,6 @@
 # ThreeJS Freebie
+This is a great place to start! Enjoy!!!
+
 
 <img width="1440" height="775" alt="Screenshot 2026-05-20 at 2 48 28 PM" src="https://github.com/user-attachments/assets/04da3bbc-7ab3-40be-99dc-deaeaba553e7" />
 
@@ -6,6 +8,7 @@
 
 <img width="1440" height="771" alt="Screenshot 2026-05-20 at 2 48 58 PM" src="https://github.com/user-attachments/assets/c9b2d7d2-3e12-467a-9e91-321aa1208146" />
 
+<img width="1440" height="775" alt="Screenshot 2026-05-20 at 2 49 16 PM" src="https://github.com/user-attachments/assets/ce74517d-db42-4d8c-bb02-c4e48d2b6024" />
 
 
 
