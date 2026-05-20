@@ -1,6 +1,12 @@
-# Loading Animation Freebie
+# ThreeJS Freebie
 
-![Frame 2](https://github.com/user-attachments/assets/2c8d61eb-4e46-4966-91e8-8ab3d1f42c96)
+<img width="1440" height="775" alt="Screenshot 2026-05-20 at 2 48 28 PM" src="https://github.com/user-attachments/assets/04da3bbc-7ab3-40be-99dc-deaeaba553e7" />
+
+<img width="1440" height="775" alt="Screenshot 2026-05-20 at 2 48 40 PM" src="https://github.com/user-attachments/assets/453fc0f9-7449-4017-bd32-0b7635b1158b" />
+
+<img width="1440" height="771" alt="Screenshot 2026-05-20 at 2 48 58 PM" src="https://github.com/user-attachments/assets/c9b2d7d2-3e12-467a-9e91-321aa1208146" />
+
+
 
 
 A React web application featuring an interactive hero page with a Three.js particle animation background. The page includes a beautiful hero section with Tailwind CSS styling and an animated particle system that responds to user interaction.
